@@ -28,8 +28,7 @@ PathFinder is a web-based career guidance platform designed to help users explor
 - [Deployment](#deployment)
 - [Engineering Decisions](#engineering-decisions)
 - [Limitations and Future Improvements](#limitations-and-future-improvements)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ---
 
@@ -540,36 +539,6 @@ These are potential improvements, not claims that the features are already imple
 
 ---
 
-## Contributing
 
-Contributions and suggestions are welcome.
-
-To propose a change:
-
-1. Fork the repository.
-2. Create a feature branch.
-3. Make a focused change.
-4. Run the relevant lint, build, and test commands.
-5. Submit a pull request with a clear explanation of the change.
-
-For significant changes, explain the problem being addressed, the implementation approach, and how the change was tested.
-
----
-
-## License
-
-No license information is specified here. Add a `LICENSE` file and update this section if you intend to distribute the project under an open-source license. Without an explicit license, others generally do not receive permission to reuse, modify, or redistribute the code beyond applicable legal exceptions.
-
----
-
-## Author
-
-**Varun Goli**
-
-- GitHub: [@varun26pi](https://github.com/varun26pi)
-- Project: [PathFinder](https://github.com/varun26pi/path-finder)
-- Live Demo: [pathfinder-system-sable.vercel.app](https://pathfinder-system-sable.vercel.app/)
-
----
 
 *PathFinder — bringing career discovery, guidance, and planning together in one platform.*
